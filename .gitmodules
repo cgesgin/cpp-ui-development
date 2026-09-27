@@ -1,0 +1,3 @@
+[submodule "FilteredCameraApp"]
+	path = FilteredCameraApp
+	url = https://github.com/cgesgin/FilteredCameraApp.git
