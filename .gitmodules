@@ -1,3 +1,6 @@
 [submodule "FilteredCameraApp"]
 	path = FilteredCameraApp
 	url = https://github.com/cgesgin/FilteredCameraApp.git
+[submodule "NoteMakerApp"]
+	path = NoteMakerApp
+	url = https://github.com/cgesgin/NoteMakerApp.git
