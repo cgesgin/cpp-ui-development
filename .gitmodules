@@ -4,3 +4,6 @@
 [submodule "NoteMakerApp"]
 	path = NoteMakerApp
 	url = https://github.com/cgesgin/NoteMakerApp.git
+[submodule "ScreenshotApp"]
+	path = ScreenshotApp
+	url = https://github.com/cgesgin/ScreenshotApp.git
