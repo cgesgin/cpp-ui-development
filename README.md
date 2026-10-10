@@ -1,10 +1,5 @@
 ﻿# C++ UI Development
 
-## Projects
-
-### 1. FilteredCameraApp
-### 2. NoteMakerApp
-
 ## Resources
 
 - Qt Resource and Download
