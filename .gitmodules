@@ -7,3 +7,6 @@
 [submodule "ScreenshotApp"]
 	path = ScreenshotApp
 	url = https://github.com/cgesgin/ScreenshotApp.git
+[submodule "AudioRecorderApp"]
+	path = AudioRecorderApp
+	url = https://github.com/cgesgin/AudioRecorderApp.git
